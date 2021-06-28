@@ -4,11 +4,11 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Index Page</title>
+<title>Insert title here</title>
 <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
 </head>
 <body>
- 	GIT 연습!!
- 	GIT 연습2!!
+	GIT 연습
+	GIT 연습2
 </body>
 </html>
